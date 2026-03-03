@@ -1,0 +1,111 @@
+:root {
+  --bg: #0f172a;
+  --text: #f1f5f9;
+  --glass: rgba(255, 255, 255, 0.05);
+}
+
+.light-mode {
+  --bg: #f8fafc;
+  --text: #0f172a;
+  --glass: rgba(0, 0, 0, 0.05);
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, sans-serif;
+  background: var(--bg);
+  color: var(--text);
+  transition: all 0.3s ease;
+  scroll-behavior: smooth;
+}
+
+nav {
+  display: flex;
+  justify-content: space-between;
+  padding: 20px 40px;
+  position: sticky;
+  top: 0;
+  backdrop-filter: blur(10px);
+}
+
+.nav-links a {
+  margin: 0 10px;
+  text-decoration: none;
+  color: var(--text);
+}
+
+.hero {
+  text-align: center;
+  padding: 120px 20px;
+}
+
+.hero h1 {
+  font-size: 2.8rem;
+}
+
+.hero-buttons {
+  margin-top: 30px;
+}
+
+.btn-primary {
+  background: #3b82f6;
+  color: white;
+  padding: 12px 24px;
+  border-radius: 8px;
+  text-decoration: none;
+  border: none;
+  cursor: pointer;
+}
+
+.btn-secondary {
+  border: 1px solid var(--text);
+  padding: 12px 24px;
+  border-radius: 8px;
+  margin-left: 10px;
+  text-decoration: none;
+  color: var(--text);
+}
+
+section {
+  max-width: 1000px;
+  margin: 80px auto;
+  padding: 40px 20px;
+}
+
+.glass {
+  background: var(--glass);
+  backdrop-filter: blur(12px);
+  border-radius: 16px;
+}
+
+.project-grid {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 20px;
+}
+
+.project-card {
+  padding: 20px;
+  flex: 1 1 280px;
+  border-radius: 16px;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  max-width: 500px;
+  margin: auto;
+}
+
+input, textarea {
+  padding: 12px;
+  border-radius: 8px;
+  border: none;
+}
+
+footer {
+  text-align: center;
+  padding: 40px;
+  opacity: 0.6;
+}
