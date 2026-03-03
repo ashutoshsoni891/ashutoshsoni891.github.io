@@ -1,169 +1,140 @@
-🚀 Ashutosh Soni
+# 🚀 Ashutosh Soni  
 
-AI & Backend Systems Engineer | Startup Execution Partner | Cloud-Native Architect
+**AI & Backend Systems Engineer | Startup Execution Partner | Cloud-Native Architect**
 
-I help startups move from idea → MVP → scalable production without overengineering.
+I help startups move from **idea → MVP → scalable production** without overengineering.
 
 I build systems that are:
+- Fast to ship  
+- Easy to scale  
+- Cost-efficient  
+- Secure from Day 1  
 
-Fast to ship
+If you’re a founder who needs someone that can **own architecture and deliver without hand-holding**, we’ll work well together.
 
-Easy to scale
+---
 
-Cost-efficient
+## 🧠 What I Bring to a Startup
 
-Secure from Day 1
-
-If you’re a founder who needs someone that can own architecture and deliver without hand-holding, we’ll work well together.
-
-🧠 What I Bring to a Startup
-
-🔹 8+ years building production systems
-🔹 Strong system design + product intuition
-🔹 AI integration specialist (LLMs, Agents, RAG)
-🔹 Event-driven & serverless architectures
-🔹 OAuth & compliance-ready systems
+- 8+ years building production systems  
+- Strong system design + product intuition  
+- AI integration specialist (LLMs, Agents, RAG)  
+- Event-driven & serverless architectures  
+- OAuth & compliance-ready systems  
 
 I think in:
+- User value  
+- Revenue impact  
+- Infrastructure cost  
+- Long-term maintainability  
 
-User value
+---
 
-Revenue impact
+## 💼 How I Help VC-Backed Startups
 
-Infrastructure cost
+### 🚀 MVP Acceleration
+- Design scalable architecture from day one  
+- Avoid early technical debt traps  
+- Ship production-ready features quickly  
 
-Long-term maintainability
+### 🤖 AI Product Integration
+- LLM tool-calling systems  
+- Agentic RAG architectures  
+- AI workflow automation  
+- Monetizable AI features  
 
-💼 How I Help VC-Backed Startups
-🚀 MVP Acceleration
+### ☁️ Cloud Cost Optimization
+- Serverless-first mindset  
+- Event-driven systems (EventBridge, Lambda)  
+- Efficient data & caching strategies  
+- Infra designed to scale with revenue  
 
-Design scalable architecture from day one
+### 🔐 Enterprise-Ready Architecture
+- OAuth-compliant integrations  
+- Secure API design  
+- Multi-tenant SaaS patterns  
 
-Avoid early technical debt traps
+---
 
-Ship production-ready features quickly
+## 🔥 Selected Startup-Style Builds
 
-🤖 AI Product Integration
-
-LLM tool-calling systems
-
-Agentic RAG architectures
-
-AI workflow automation
-
-Monetizable AI features
-
-☁️ Cloud Cost Optimization
-
-Serverless-first mindset
-
-Event-driven systems (EventBridge, Lambda)
-
-Efficient data & caching strategies
-
-Infra designed to scale with revenue
-
-🔐 Enterprise-Ready Architecture
-
-OAuth-compliant integrations
-
-Secure API design
-
-Multi-tenant SaaS patterns
-
-🔥 Selected Startup-Style Builds
-🧠 AI Calendar Intelligence Platform
-
+### 🧠 AI Calendar Intelligence Platform  
 Integrated Google OAuth + automation workflows.
 
-Result:
+**Impact:**
+- 60% reduction in manual scheduling  
+- Secure verification-compliant OAuth flow  
+- Multi-tenant scalable architecture  
 
-60% reduction in manual scheduling
+---
 
-Secure verification-compliant OAuth flow
-
-Multi-tenant scalable architecture
-
-⚡ Event-Driven Serverless Platform
-
+### ⚡ Event-Driven Serverless Platform  
 Built scalable backend for high-volume processing.
 
-Result:
+**Impact:**
+- Handles 1M+ events/month  
+- Reduced infra cost by 40%  
+- Zero-server ops model  
 
-Handles 1M+ events/month
+---
 
-Reduced infra cost by 40%
-
-Zero-server ops model
-
-🤖 Agentic RAG System
-
+### 🤖 Agentic RAG System  
 Production-ready AI Q&A engine with tool-calling logic.
 
-Result:
+**Impact:**
+- Context-aware retrieval  
+- Autonomous task reasoning  
+- Clean observability & logging  
 
-Context-aware retrieval
+---
 
-Autonomous task reasoning
+## 🛠 Tech Stack
 
-Clean observability & logging
+**Backend:**  
+Node.js, Python, REST APIs, Microservices  
 
-🛠 Tech Stack
+**Cloud:**  
+AWS (Lambda, EventBridge, S3, RDS), Docker  
 
-Backend:
-Node.js, Python, REST APIs, Microservices
+**AI:**  
+LangChain, LLM APIs, Vector Databases, Agent systems  
 
-Cloud:
-AWS (Lambda, EventBridge, S3, RDS), Docker
+**Architecture:**  
+Event-driven systems, SaaS multi-tenancy, OAuth integrations  
 
-AI:
-LangChain, LLM APIs, Vector Databases, Agent systems
+---
 
-Architecture:
-Event-driven systems, SaaS multi-tenancy, OAuth integrations
+## 🧩 Why Founders Like Working With Me
 
-🧩 Why Founders Like Working With Me
+- I take ownership of technical direction  
+- I ask product-level questions  
+- I care about business metrics  
+- I optimize for speed + stability  
+- I can work async with minimal oversight  
 
-I take ownership of technical direction
+I operate like an **early-stage technical partner**, not just a ticket executor.
 
-I ask product-level questions
+---
 
-I care about business metrics
+## 🤝 Open To
 
-I optimize for speed + stability
+- Startup contracts  
+- VC-backed early-stage teams  
+- AI feature buildouts  
+- Backend system rebuilds  
+- Architecture audits  
+- Fractional senior engineer roles  
 
-I can work async with minimal oversight
+---
 
-I operate like an early-stage technical partner, not just a ticket executor.
-
-🤝 Open To
-
-Startup contracts
-
-VC-backed early-stage teams
-
-AI feature buildouts
-
-Backend system rebuilds
-
-Architecture audits
-
-Fractional senior engineer roles
-
-📬 Let’s Build Something That Scales
+## 📬 Let’s Build Something That Scales
 
 If you're building:
 
-AI-native SaaS
+- AI-native SaaS  
+- Automation platforms  
+- B2B infrastructure tools  
+- Developer-first products  
 
-Automation platforms
-
-B2B infrastructure tools
-
-Developer-first products
-
-Let’s connect.
-
-📩 Email: ashutoshsoni891@gmail.com
-
+📩 Email: ashutoshsoni891@gmail.com  
 🔗 LinkedIn: https://linkedin.com/in/ashutoshsoni891
